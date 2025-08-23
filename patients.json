@@ -48,5 +48,16 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
+    },
+    "P007": {
+        "id": "P007",
+        "name": "Meet Gandhi",
+        "city": "Ahd",
+        "age": 22,
+        "gender": "Male",
+        "height": 174.0,
+        "weight": 61.0,
+        "bmi": 20.15,
+        "verdict": "Normal weight"
     }
 }
